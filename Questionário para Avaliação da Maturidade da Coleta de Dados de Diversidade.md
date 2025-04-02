@@ -41,7 +41,7 @@
 
 * Os usuários do sistema (profissionais de saúde, gestores, pesquisadores) possuem a capacidade de interpretar e utilizar os dados de diversidade de forma eficaz?  
 * Há disponibilidade de documentação clara e acessível sobre os dados de diversidade, incluindo o domínio e o modelo de negócio do sistema de informação?  
-* São oferecidas capacitações específicas sobre a coleta, análise e interpretação de dados de diversidade (incluindo o uso de ferramentas como EpiInfo e TabWin)?  
+* São oferecidas capacitações específicas sobre a coleta, análise e interpretação de dados de diversidade?  
 * A literacia de dados em relação à diversidade é promovida e desenvolvida entre os usuários do sistema (escala 1 a 5)?
 
 **7\. Monitoramento do Cenário, Marcos e Contexto Social:**
