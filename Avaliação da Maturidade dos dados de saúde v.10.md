@@ -1,6 +1,7 @@
-**Relatório de Maturidade de Gestão de Dados de Saúde, Versão 0\.**  
-**Maíra Lima de Souza**
+# **Relatório de Maturidade de Gestão de Dados de Saúde, Versão 0\.**  
+Autoria: Maíra LimaS (https://www.linkedin.com/in/mairalimas/)
 
+# **O estudo de Caso\.**  
 Em 2023, o Departamento de Análise Epidemiológica e Vigilância de Doenças Não Transmissíveis (Daent), ligado à SVSA, publicou o perfil das bases de dados produzidas pela vigilância em saúde no Brasil. O documento descreve os sistemas de informação em saúde ligados a diferentes aspectos da linha da vida dos cidadãos brasileiros e que estão sob gestão do departamento. São apresentados, para cada sistema, informações sobre a coleta e processamento, avaliação da qualidade, acesso e limitações e desafios. Esse levantamento também apresenta as principais variáveis de cada sistema. 
 
 A partir das informações trazidas na publicação em questão, esse documento objetiva analisar a maturidade do modelo de gestão de dados (MMGD), ou um Data Stewardship Maturity Model (DSMM), desses dados. Um modelo de maturidade é uma ferramenta que descreve o estágio de desenvolvimento e os pontos de atenção de uma determinada capacidade ou função. No modelo proposto, os sistemas de informação serão avaliados por sua capacidade de coleta e tratamento de dados, especialmente dados da diversidade.  Os critérios, apresentados abaixo,  serão considerados a partir de uma escala de cinco níveis:
@@ -12,9 +13,9 @@ A partir das informações trazidas na publicação em questão, esse documento 
 5. **Acesso aos Dados**: Analisa a disponibilidade e transparência das informações, incluindo a existência de microdados anonimizados acessíveis ao público.   
 6. **Literacia de Dados**: Refere-se à capacidade dos usuários de interpretar e utilizar os dados de forma eficaz. Diz respeito tanto a capacitação no uso de ferramentas como EpiInfo e TabWin, quanto a disponibilização de documentos de dados e do domínio e modelo de negócio do sistema de informação. 
 
-Assim, cada sistema foi individualmente avaliado em cada um dos critérios citados acima usando uma escala de maturidade que varia de 1 a 5, considerando a existência de práticas de gestão estabelecidas. Por exemplo, aquelas práticas criadas para resolver problemas imediatos são classificadas na escala 1, categoria inicial, e à medida que vão se ampliando e integrando vão evoluindo até a escala 5.
+Assim, cada sistema foi avaliado individualmente em cada um dos critérios mencionados, utilizando uma escala de maturidade de 1 a 5, baseada na existência de práticas de gestão estabelecidas. Por exemplo, práticas criadas para solucionar problemas imediatos são classificadas na escala 1, categoria inicial, e, à medida que se expandem e se tornam mais integradas, evoluem até a escala 5.
 
-Com base nos critérios acima e nas informações do perfil das bases de saúde, foram criados cinco modelos de maturidade para os seguintes sistemas: Sistema de Informações sobre Nascidos Vivos (SINASC), Sistema de Informação de Agravos de Notificação (SINAN), Vigilância de Fatores de Risco e Proteção para Doenças Crônicas Não Transmissíveis por Inquérito Telefônico (VIGITEL), e-SUS Notifica e Sistema de Informações sobre Mortalidade (SIM). A atribuição de pontos se baseou na avaliação das informações fornecidas sobre cada sistema em relação aos componentes propostos para o modelo de maturidade gestão de dados (MMGD). Objetiva-se que esse documento sirva como referência para análises futuras para outros conjuntos de dados administrativos governamentais.
+Com base nos critérios acima e no perfil das bases de saúde apresentado, foram elaborados cinco modelos de maturidade para os seguintes sistemas: Sistema de Informações sobre Nascidos Vivos (SINASC), Sistema de Informação de Agravos de Notificação (SINAN), Vigilância de Fatores de Risco e Proteção para Doenças Crônicas Não Transmissíveis por Inquérito Telefônico (VIGITEL), e-SUS Notifica e Sistema de Informações sobre Mortalidade (SIM). A atribuição de pontos foi realizada com base na avaliação das informações fornecidas sobre cada sistema em relação aos componentes propostos pelo Modelo de Maturidade em Gestão de Dados (MMGD). Espera-se que este documento sirva como referência para análises futuras de outros conjuntos de dados administrativos governamentais.
 
 | Componente | SINASC | RESP-Microcefalia | SINAN | VIGITEL | e-SUS Notifica | SIM |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -41,14 +42,16 @@ No que diz respeito ao documento analisado, a coleta de dados da diversidade pod
 
 Em termos de maturidade, nota-se que a coleta de sobre a diversidade é **mínima**, focando em sexo e raça/cor, tendo a maior parte dos sistemas relatado dificuldades para escalar. Estudos têm apontado que a avaliação da maturidade dessas bases para o tratamento de informações de diversidade devem considerar as diretrizes de coleta e análise, considerando o potencial de:
 
-1. **Autoidentificação:** A auto identificação é um princípio fundamental na coleta de dados sobre origem racial ou étnica. Os indivíduos devem ter o direito de se definir e escolher se desejam ou não divulgar informações sobre sua origem. A imposição de categorias ou a identificação por terceiros podem levar a imprecisões e distorções.
+1. **Autoidentificação:** A autoidentificação é um princípio fundamental na coleta de dados sobre origem racial ou étnica. Os indivíduos devem ter o direito de se definir e decidir se desejam ou não divulgar essas informações. A imposição de categorias ou a identificação por terceiros pode resultar em imprecisões e distorções.
+2. **Uso de Informações Proxy:** Em alguns casos, quando a autoidentificação não é possível, o uso de informações proxy, como nacionalidade, país de nascimento ou idioma, pode ser uma alternativa para estudos sobre origem étnica e racial. Em outros cenários, a combinação de variáveis como raça/cor, identificação indígena ou quilombola e endereço pode ajudar a compreender a diversidade. No entanto, o uso de proxies apresenta desafios e deve ser conduzido com cautela e transparência. Destaca-se também a importância das estratégias de interseccionalidade, que analisam a combinação de variáveis para revelar novas dimensões sociais dos indivíduos.
+3. **Coleta de Dados sobre Experiências de Exclusão e Discriminação:** Experiências de discriminação ou barreiras de acesso enfrentadas por diferentes grupos podem ser incorporadas à avaliação para aprimorar o indicador de maturidade no tratamento desses sistemas operacionais.
 
-2. **Uso de Informações Proxy:** Em alguns casos, quando no limite da auto identificação, o uso de informações proxy, como nacionalidade, país de nascimento ou idioma, é considerado como uma alternativa para estudo sobre origem étnica/racial. Em outros cenários, a combinação de outras variáveis raça/cor indigena ou quilombola e endereço pode ser o caminho de aproximação para percepção da diversidade. No entanto, o uso de proxies apresenta desafios e deve ser feito com cautela e transparência. Chama-se atenção também para estratégias de Interseccionalidade, que compara variáveis para obter novas dimensões sociais do indivíduo.
-
-3. **Coleta de Dados sobre Experiências de Exclusão e Discriminação:** Experiências de discriminação ou limites de acesso enfrentadas por diferentes grupos podem ser coletadas para ampliar o índicador de maturidade de tratamento desses sistemas operacionais. 
-
-Assim, emergem considerações sobre: **Informação por Terceiros**: Coleta por profissionais de saúde ou declarantes do óbito, com possível viés e inconsistências. \- **Categorias**: Utilização de categorias que permitam a identificação adequada, com opções para quem não se identifica nas categorias predefinidas.- **Ferramenta de Coleta**\- Avaliação do potencial de inclusão \- **Qualidade**: Análise de qualidade dos dados para identificar e corrigir erros devido à informação ser fornecida por terceiros. Para cada sistema considerações particulares podem ser feitas: 
-
+Com isso, emergem algumas considerações:
+* Informação por terceiros: Coleta realizada por profissionais de saúde ou declarantes do óbito, sujeita a vieses e inconsistências.
+* Categorias: Uso de classificações que possibilitem uma identificação adequada, incluindo opções para aqueles que não se enquadram nas categorias predefinidas.
+* Ferramenta de coleta: Avaliação do potencial de inclusão dos métodos e ferramentas de coleta utilizados.
+* Qualidade: Análise da qualidade dos dados para identificar e corrigir erros decorrentes da informação fornecida por terceiros.
+  
 | Sistema de Informação | Variáveis Coletadas | Variáveis de Diversidade Coletadas | Diretrizes de Coleta e Análise (inferências e considerações) |
 | ----- | ----- | ----- | ----- |
 | **SINASC (Sistema de Informações sobre Nascidos Vivos)** | Identificação do recém-nascido (sexo, peso ao nascer, índice de Apgar, anomalias congênitas); Local de ocorrência (características do estabelecimento de saúde e endereço); Dados da parturiente (escolaridade, situação conjugal, raça/cor e endereço); Responsável legal (nome e idade); Condições do parto (histórico gestacional, tipo de gravidez, semanas de gestação, tipo de parto); Anomalias congênitas; Dados de cartório. | **Sexo** do recém-nascido, **raça/cor** da parturiente. | \- **Autodeclaração:** Coleta de raça/cor baseada na autodeclaração da parturiente- **Interseccionalidade:** Consideração da interação entre raça/cor, escolaridade e situação conjugal.- **Notificação Inclusiva:** Limites dos formulários.- **Privacidade:** É Garantida?.- **Acessibilidade:** Formulários acessíveis? |
@@ -60,8 +63,8 @@ Assim, emergem considerações sobre: **Informação por Terceiros**: Coleta por
 
 ## **A informação social e a importância de conhecer os marcos e contextos sociais e as bases regulatórias de coleta.**
 
-A questão do tratamento de dados sobre diversidade é uma pauta tanto internacional quanto nacional, e três elementos se destacam nesse cenário. Trabalho com a hipótese de que a política de dados é delineada pela forma de articulação da administração de dados nacional e pela estruturação das políticas multiculturais. Os dilemas permeiam o balanceamento dos interesses, direitos e salvaguardas em relação a: 
-
+A avaliação da maturidade da coleta de dados de diversidade deve considerar não apenas os aspectos técnicos e operacionais, mas também a compreensão e o monitoramento do complexo cenário social e regulatório em que essa coleta está inserida.
+O tratamento de dados sobre diversidade é uma pauta tanto nacional quanto internacional, e três elementos se destacam nesse contexto. Parto da hipótese de que a política de dados é moldada pela articulação da administração de dados no país e pela estruturação das políticas multiculturais. Os dilemas envolvem o equilíbrio entre interesses, direitos e salvaguardas em relação a:
 * **Interesse Público:** O interesse público, em consonância com a base legal, nacional ou internacional, deve ser proporcional à finalidade, respeitar o direito à proteção de dados e salvaguardar os direitos fundamentais dos titulares dos dados.  
 * **Consentimento:** Mediar a relação de coleta com o consentimento e a autonomia.  
 * **Fins de Arquivamento, Pesquisa ou Estatística:** Definir critérios para processamento para fins de arquivamento no interesse público, pesquisa científica ou histórica ou fins estatísticos.   
@@ -69,8 +72,11 @@ A questão do tratamento de dados sobre diversidade é uma pauta tanto internaci
 * **Minimização de Dados:** Coletar apenas os dados estritamente necessários para a finalidade específica e evitar a coleta excessiva de informações pessoais.  
 * **Transparência e Informação:** Fornecer aos indivíduos informações claras e acessíveis sobre a coleta, o uso e a proteção de seus dados pessoais.
 
-No caso dos dados raça/cor/etnia/nacionalidade, segundo seu contexto, cada país terá uma abordagem específica em relação à coleta de dados sobre raça e origem étnica. Considerando que os diversos modelos multiculturais europeus, incluindo exclusão diferencial (Alemanha), assimilação (França) e multiculturalismo (Grã-Bretanha), que enfatizavam o equilíbrio entre a preservação da identidade cultural e a participação social. Nota-se que a coleta da informação social sobre diversidade esbarra na influência do passado colonial e no regionalismo. E deve superar os desafios: Crise do Estado de bem-estar social, xenofobia e categorizações rígidas de grupos minoritários. De uma forma geral, o quadro abaixo expressa esse cenário.
+Segue um exemplo prático.
 
+No caso dos dados sobre raça, cor, etnia e nacionalidade, cada país adota uma abordagem específica para a coleta dessas informações, de acordo com seu contexto. Os diferentes modelos multiculturais europeus — como a exclusão diferencial na Alemanha, a assimilação na França e o multiculturalismo na Grã-Bretanha — buscaram equilibrar a preservação da identidade cultural com a participação social. Observa-se que a coleta de dados sobre diversidade enfrenta desafios relacionados à influência do passado colonial e ao regionalismo. Para avançar, é necessário superar obstáculos como a crise do Estado de bem-estar social, a xenofobia e as categorizações rígidas de grupos minoritários.
+
+De maneira geral, o quadro abaixo ilustra esse cenário.
 | País | Contexto Legal | Práticas de Coleta | Desafios e Considerações |
 | ----- | ----- | ----- | ----- |
 | **Alemanha** | Utiliza o conceito de "histórico de migração". Coleta dados sobre local de nascimento dos pais, idioma falado em casa e nacionalidade. | Realiza pesquisas como o Painel Socioeconômico (SOEP) e o estudo longitudinal "Vivendo na Alemanha". Utiliza proxies como "histórico de migração", local de nascimento dos pais e idioma. | A categorização da origem racial e étnica é um desafio, dada a fluidez dos conceitos e as diversas categorias utilizadas em diferentes pesquisas. |
@@ -84,4 +90,4 @@ No caso dos dados raça/cor/etnia/nacionalidade, segundo seu contexto, cada paí
 | **Irlanda** | Impõe o dever de coleta de dados de igualdade, incluindo raça e origem étnica, a órgãos públicos. | Realiza a Pesquisa Nacional Trimestral de Domicílios (QNHS) com um módulo de igualdade que investiga a experiência de discriminação com base em nove motivos, incluindo raça. | Assegurar a representatividade dos dados e a inclusão de todos os grupos étnicos é um desafio contínuo. |
 | **Reino Unido** | Impõe o dever de coleta de dados de igualdade, incluindo raça e origem étnica, a órgãos públicos. | Utiliza categorias amplas que combinam indicadores nacionais, étnicos e geográficos no censo. | A categorização da origem racial e étnica é um debate em constante evolução, buscando refletir a diversidade da população. |
 
-A avaliação da maturidade da coleta de dados de diversidade deve considerar não apenas os aspectos técnicos e operacionais, mas também a compreensão e o monitoramento do complexo cenário social e regulatório em que essa coleta está inserida.
+
