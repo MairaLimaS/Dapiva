@@ -1,4 +1,7 @@
-**Questionário para Avaliação da Maturidade da Coleta de Dados de Diversidade**
+# Questionário para Avaliação da Maturidade da Coleta de Dados de Diversidade, Versão 0\
+> Autoria: Maíra LimaS (lima.maira.souza@gmail.com)
+
+----------------------
 
 **1\. Gestão de Dados:**
 
