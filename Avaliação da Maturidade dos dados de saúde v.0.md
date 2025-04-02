@@ -74,7 +74,7 @@ O tratamento de dados sobre diversidade é uma pauta tanto nacional quanto inter
 
 Segue um exemplo prático.
 
-No caso dos dados sobre raça, cor, etnia e nacionalidade, cada país adota uma abordagem específica para a coleta dessas informações, de acordo com seu contexto. Os diferentes modelos multiculturais europeus — como a exclusão diferencial na Alemanha, a assimilação na França e o multiculturalismo na Grã-Bretanha — buscaram equilibrar a preservação da identidade cultural com a participação social. Observa-se que a coleta de dados sobre diversidade enfrenta desafios relacionados à influência do passado colonial e ao regionalismo. Para avançar, é necessário superar obstáculos como a crise do Estado de bem-estar social, a xenofobia e as categorizações rígidas de grupos minoritários.
+No caso dos dados sobre raça, cor, etnia e nacionalidade, cada país adota uma abordagem específica para a coleta dessas informações, de acordo com seu contexto. Os diferentes modelos multiculturais europeus — como a exclusão diferencial na Alemanha, a assimilação na França e o multiculturalismo na Grã-Bretanha — buscaram equilibrar a preservação da identidade cultural com a participação social. Observa-se que a coleta de dados sobre diversidade enfrenta desafios relacionados à influência do passado colonial e ao regionalismo. Há restrições à coleta de dados sobre origem racial e étnica, com exceções para fins específicos, como combate à discriminação e um ebate sobre o uso de proxies para coleta de dados étnicos, com preocupações sobre privacidade e discriminação indireta. Para avançar, é necessário superar obstáculos como a crise do Estado de bem-estar social, a xenofobia e as categorizações rígidas de grupos minoritários.
 
 De maneira geral, o quadro abaixo ilustra esse cenário.
 | País | Contexto Legal | Práticas de Coleta | Desafios e Considerações |
@@ -89,5 +89,12 @@ De maneira geral, o quadro abaixo ilustra esse cenário.
 | **França** | Enfatiza a origem migratória. Coleta dados sobre local de nascimento e cidadania dos indivíduos e seus pais. | Realiza pesquisas como a Trajectories and Origins (TeO), que investiga imigrantes, descendentes de imigrantes e pessoas dos territórios ultramarinos franceses. | A ênfase na origem migratória pode não capturar a complexidade da origem racial e étnica da população. |
 | **Irlanda** | Impõe o dever de coleta de dados de igualdade, incluindo raça e origem étnica, a órgãos públicos. | Realiza a Pesquisa Nacional Trimestral de Domicílios (QNHS) com um módulo de igualdade que investiga a experiência de discriminação com base em nove motivos, incluindo raça. | Assegurar a representatividade dos dados e a inclusão de todos os grupos étnicos é um desafio contínuo. |
 | **Reino Unido** | Impõe o dever de coleta de dados de igualdade, incluindo raça e origem étnica, a órgãos públicos. | Utiliza categorias amplas que combinam indicadores nacionais, étnicos e geográficos no censo. | A categorização da origem racial e étnica é um debate em constante evolução, buscando refletir a diversidade da população. |
+
+
+-------------
+Fonte: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/dados-para-vigilancia-perfis-das-bases-de-dados-produzidas-pela-vigilancia-em-saude-no-brasil/view
+
+Metadados intermediários: https://docs.google.com/spreadsheets/d/1smGDNLgs7kF5t5yTSIxJIqM1R2ry5p6FRmq9lR3unQQ/edit?gid=0#gid=0
+
 
 
