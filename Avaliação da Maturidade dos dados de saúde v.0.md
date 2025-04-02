@@ -90,7 +90,6 @@ De maneira geral, o quadro abaixo ilustra esse cenário.
 | **Irlanda** | Impõe o dever de coleta de dados de igualdade, incluindo raça e origem étnica, a órgãos públicos. | Realiza a Pesquisa Nacional Trimestral de Domicílios (QNHS) com um módulo de igualdade que investiga a experiência de discriminação com base em nove motivos, incluindo raça. | Assegurar a representatividade dos dados e a inclusão de todos os grupos étnicos é um desafio contínuo. |
 | **Reino Unido** | Impõe o dever de coleta de dados de igualdade, incluindo raça e origem étnica, a órgãos públicos. | Utiliza categorias amplas que combinam indicadores nacionais, étnicos e geográficos no censo. | A categorização da origem racial e étnica é um debate em constante evolução, buscando refletir a diversidade da população. |
 
-
 -------------
 Fonte: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/dados-para-vigilancia-perfis-das-bases-de-dados-produzidas-pela-vigilancia-em-saude-no-brasil/view
 
