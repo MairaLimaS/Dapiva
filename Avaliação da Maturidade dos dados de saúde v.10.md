@@ -45,7 +45,7 @@ Em termos de maturidade, nota-se que a coleta de sobre a diversidade é **mínim
 
 2. **Uso de Informações Proxy:** Em alguns casos, quando no limite da auto identificação, o uso de informações proxy, como nacionalidade, país de nascimento ou idioma, é considerado como uma alternativa para estudo sobre origem étnica/racial. Em outros cenários, a combinação de outras variáveis raça/cor indigena ou quilombola e endereço pode ser o caminho de aproximação para percepção da diversidade. No entanto, o uso de proxies apresenta desafios e deve ser feito com cautela e transparência. Chama-se atenção também para estratégias de Interseccionalidade, que compara variáveis para obter novas dimensões sociais do indivíduo.
 
-3. **Coleta de Dados sobre Experiências de Discriminação:** Experiências de discriminação ou limites de acesso enfrentadas por diferentes grupos podem ser coletadas para ampliar o índicador de maturidade de tratamento desses sistemas operacionais. 
+3. **Coleta de Dados sobre Experiências de Exclusão e Discriminação:** Experiências de discriminação ou limites de acesso enfrentadas por diferentes grupos podem ser coletadas para ampliar o índicador de maturidade de tratamento desses sistemas operacionais. 
 
 Assim, emergem considerações sobre: **Informação por Terceiros**: Coleta por profissionais de saúde ou declarantes do óbito, com possível viés e inconsistências. \- **Categorias**: Utilização de categorias que permitam a identificação adequada, com opções para quem não se identifica nas categorias predefinidas.- **Ferramenta de Coleta**\- Avaliação do potencial de inclusão \- **Qualidade**: Análise de qualidade dos dados para identificar e corrigir erros devido à informação ser fornecida por terceiros. Para cada sistema considerações particulares podem ser feitas: 
 
@@ -60,7 +60,7 @@ Assim, emergem considerações sobre: **Informação por Terceiros**: Coleta por
 
 ## **A informação social e a importância de conhecer os marcos e contextos sociais e as bases regulatórias de coleta.**
 
-A questão sobre o tratamento de dados da diversidade é uma pauta internacional e nacional, e três elementos se destacam nesse cenário. Trabalho com a hipótese que a política de dados é delineada pela forma de articulação da administração de dados nacional e pela forma de estruturação das políticas multiculturais. Os dilemas permeiam balancear os interesses, direitos e salvaguardas em relação a: 
+A questão do tratamento de dados sobre diversidade é uma pauta tanto internacional quanto nacional, e três elementos se destacam nesse cenário. Trabalho com a hipótese de que a política de dados é delineada pela forma de articulação da administração de dados nacional e pela estruturação das políticas multiculturais. Os dilemas permeiam o balanceamento dos interesses, direitos e salvaguardas em relação a: 
 
 * **Interesse Público:** O interesse público, em consonância com a base legal, nacional ou internacional, deve ser proporcional à finalidade, respeitar o direito à proteção de dados e salvaguardar os direitos fundamentais dos titulares dos dados.  
 * **Consentimento:** Mediar a relação de coleta com o consentimento e a autonomia.  
