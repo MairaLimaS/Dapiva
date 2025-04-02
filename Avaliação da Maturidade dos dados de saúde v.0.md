@@ -1,21 +1,28 @@
-# **Relatório de Maturidade de Gestão de Dados de Saúde, Versão 0\.**  
+## **Relatório de Maturidade de Gestão de Dados de Saúde, Versão 0\.**  
 Autoria: Maíra LimaS (lima.maira.souza@gmail.com)
 
-# **O estudo de Caso\.**  
+----------------------------------------------------------
+  
+### **O Estudo de Caso**  
+
+<h6>
 Em 2023, o Departamento de Análise Epidemiológica e Vigilância de Doenças Não Transmissíveis (Daent), ligado à SVSA, publicou o perfil das bases de dados produzidas pela vigilância em saúde no Brasil. O documento descreve os sistemas de informação em saúde ligados a diferentes aspectos da linha da vida dos cidadãos brasileiros e que estão sob gestão do departamento. São apresentados, para cada sistema, informações sobre a coleta e processamento, avaliação da qualidade, acesso e limitações e desafios. Esse levantamento também apresenta as principais variáveis de cada sistema. 
-
+<br><br> 
 A partir das informações trazidas na publicação em questão, esse documento objetiva analisar a maturidade do modelo de gestão de dados (MMGD), ou um Data Stewardship Maturity Model (DSMM), desses dados. Um modelo de maturidade é uma ferramenta que descreve o estágio de desenvolvimento e os pontos de atenção de uma determinada capacidade ou função. No modelo proposto, os sistemas de informação serão avaliados por sua capacidade de coleta e tratamento de dados, especialmente dados da diversidade.  Os critérios, apresentados abaixo,  serão considerados a partir de uma escala de cinco níveis:
-
+<br><br> 
+  
 1. **Gestão de Dados**: Referencia os processos de coleta, armazenamento e atualização, bem como a transparência e comunicação desses processos.    
 2. **Qualidade de Dados**: Refere-se ao monitoramento e ajuste de precisão, completude, consistência e atualidade das informações presentes nas bases de dados.   
 3. **Padrões de Dados**: Mede a adoção de normativas e classificações padronizadas para garantir interoperabilidade e comparabilidade entre sistemas.   
 4. **Infraestrutura de Dados**: Avalia os recursos tecnológicos utilizados para armazenar, processar e disponibilizar os dados.   
 5. **Acesso aos Dados**: Analisa a disponibilidade e transparência das informações, incluindo a existência de microdados anonimizados acessíveis ao público.   
 6. **Literacia de Dados**: Refere-se à capacidade dos usuários de interpretar e utilizar os dados de forma eficaz. Diz respeito tanto a capacitação no uso de ferramentas como EpiInfo e TabWin, quanto a disponibilização de documentos de dados e do domínio e modelo de negócio do sistema de informação. 
+<br><br>
 
 Assim, cada sistema foi avaliado individualmente em cada um dos critérios mencionados, utilizando uma escala de maturidade de 1 a 5, baseada na existência de práticas de gestão estabelecidas. Por exemplo, práticas criadas para solucionar problemas imediatos são classificadas na escala 1, categoria inicial, e, à medida que se expandem e se tornam mais integradas, evoluem até a escala 5.
+<br><br> 
 
-Com base nos critérios acima e no perfil das bases de saúde apresentado, foram elaborados cinco modelos de maturidade para os seguintes sistemas: Sistema de Informações sobre Nascidos Vivos (SINASC), Sistema de Informação de Agravos de Notificação (SINAN), Vigilância de Fatores de Risco e Proteção para Doenças Crônicas Não Transmissíveis por Inquérito Telefônico (VIGITEL), e-SUS Notifica e Sistema de Informações sobre Mortalidade (SIM). A atribuição de pontos foi realizada com base na avaliação das informações fornecidas sobre cada sistema em relação aos componentes propostos pelo Modelo de Maturidade em Gestão de Dados (MMGD). Espera-se que este documento sirva como referência para análises futuras de outros conjuntos de dados administrativos governamentais.
+Com base nos critérios acima e no perfil das bases de saúde apresentado, foram elaborados cinco modelos de maturidade para os seguintes sistemas: Sistema de Informações sobre Nascidos Vivos (SINASC), Sistema de Informação de Agravos de Notificação (SINAN), Vigilância de Fatores de Risco e Proteção para Doenças Crônicas Não Transmissíveis por Inquérito Telefônico (VIGITEL), e-SUS Notifica e Sistema de Informações sobre Mortalidade (SIM). A atribuição de pontos foi realizada com base na avaliação das informações fornecidas sobre cada sistema em relação aos componentes propostos pelo Modelo de Maturidade em Gestão de Dados (MMGD). Espera-se que este documento sirva como referência para análises futuras de outros conjuntos de dados administrativos governamentais. <br><br> 
 
 | Componente | SINASC | RESP-Microcefalia | SINAN | VIGITEL | e-SUS Notifica | SIM |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -26,27 +33,32 @@ Com base nos critérios acima e no perfil das bases de saúde apresentado, foram
 | 5\. Acesso aos Dados | 4 | 4 | 4 | 4 | 4 | 4 |
 | 6\. Literacia de Dados | 3 | 3 | 3 | 3 | 3 | 3 |
 
-**Gestão de Dados**: Sistemas como o SINASC e o VIGITEL têm práticas elaboradas, com coleta bem definida. No entanto, o SINAN e o SIM têm desafios na consistência e qualidade dos dados. Por exemplo, o Sub-registro de anomalias congênitas no SINAN e o SIM, com os códigos "garbage" e baixa cobertura em alguns locais.  
-**Qualidade de Dados**: A maioria das bases de dados apresenta práticas de qualidade, mas o RESP-Microcefalia e o SINAN têm pontos de melhoria relacionados à cobertura, notificação e monitoramento.  
-**Padrões de Dados**: As bases como o SINASC e o VIGITEL têm sistemas bem padronizados com uso de classificações como a CID, enquanto o RESP-Microcefalia ainda carece de padronização em algumas áreas.  
-**Infraestrutura de Dados**: A infraestrutura de algumas bases (como SINASC e SIM) ainda depende de versões off-line, enquanto outras, como o VIGITEL, têm melhor centralização de dados e uma plataforma própria capaz de escalar. O RESP, foi sinalizada dificuldade de exportação e tratamento dos dados, e o SINAN têm arquiteturas diferentes entre as versões e módulos.  
-**Acesso aos Dados**: Todas as bases oferecem acesso aos dados, com microdados anonimizados disponíveis em plataformas públicas como TabNet. Nota-se que os dados são apresentados em formatos como tabelas, painéis e relatórios, o que facilita a consulta. Há também o uso de plataformas para monitoramento de indicadores.  
-**Literacia de Dados**: Há uma capacidade básica de consulta e agregação, mas a documentação ainda é limitada. Ela não está disponível de forma ampla e online.
+- **Gestão de Dados**: Sistemas como o SINASC e o VIGITEL têm práticas elaboradas, com coleta bem definida. No entanto, o SINAN e o SIM têm desafios na consistência e qualidade dos dados. Por exemplo, o Sub-registro de anomalias congênitas no SINAN e o SIM, com os códigos "garbage" e baixa cobertura em alguns locais.  
+- **Qualidade de Dados**: A maioria das bases de dados apresenta práticas de qualidade, mas o RESP-Microcefalia e o SINAN têm pontos de melhoria relacionados à cobertura, notificação e monitoramento.  
+- **Padrões de Dados**: As bases como o SINASC e o VIGITEL têm sistemas bem padronizados com uso de classificações como a CID, enquanto o RESP-Microcefalia ainda carece de padronização em algumas áreas.  
+- **Infraestrutura de Dados**: A infraestrutura de algumas bases (como SINASC e SIM) ainda depende de versões off-line, enquanto outras, como o VIGITEL, têm melhor centralização de dados e uma plataforma própria capaz de escalar. O RESP, foi sinalizada dificuldade de exportação e tratamento dos dados, e o SINAN têm arquiteturas diferentes entre as versões e módulos.  
+- **Acesso aos Dados**: Todas as bases oferecem acesso aos dados, com microdados anonimizados disponíveis em plataformas públicas como TabNet. Nota-se que os dados são apresentados em formatos como tabelas, painéis e relatórios, o que facilita a consulta. Há também o uso de plataformas para monitoramento de indicadores.  
+- **Literacia de Dados**: Há uma capacidade básica de consulta e agregação, mas a documentação ainda é limitada. Ela não está disponível de forma ampla e online.
 
-## **A capacidade de coleta de dados da diversidade.**
+### **A capacidade de coleta de dados da diversidade.**
 
+<h6>
+  
 No que diz respeito ao documento analisado, a coleta de dados da diversidade pode ser percebida da seguinte forma:
+<br><br> 
 
 * Os sistemas **SINASC**, **SINAN**, **VIGITEL**, **e-SUS Notifica** e **SIM** coletam dados sobre sexo e raça/cor.  
 * O sistema **e-SUS Notifica** coleta informações sobre etnia e sobre pertencimento a comunidades ou povos tradicionais.
 
-Em termos de maturidade, nota-se que a coleta de sobre a diversidade é **mínima**, focando em sexo e raça/cor, tendo a maior parte dos sistemas relatado dificuldades para escalar. Estudos têm apontado que a avaliação da maturidade dessas bases para o tratamento de informações de diversidade devem considerar as diretrizes de coleta e análise, considerando o potencial de:
+<br><br> 
+Em termos de maturidade, nota-se que a coleta de sobre a diversidade é **mínima**, focando em sexo e raça/cor, tendo a maior parte dos sistemas relatado dificuldades para escalar. Estudos têm apontado que a avaliação da maturidade dessas bases para o tratamento de informações de diversidade devem considerar as diretrizes de coleta e análise, considerando o potencial de: <br><br> 
 
 1. **Autoidentificação:** A autoidentificação é um princípio fundamental na coleta de dados sobre origem racial ou étnica. Os indivíduos devem ter o direito de se definir e decidir se desejam ou não divulgar essas informações. A imposição de categorias ou a identificação por terceiros pode resultar em imprecisões e distorções.
 2. **Uso de Informações Proxy:** Em alguns casos, quando a autoidentificação não é possível, o uso de informações proxy, como nacionalidade, país de nascimento ou idioma, pode ser uma alternativa para estudos sobre origem étnica e racial. Em outros cenários, a combinação de variáveis como raça/cor, identificação indígena ou quilombola e endereço pode ajudar a compreender a diversidade. No entanto, o uso de proxies apresenta desafios e deve ser conduzido com cautela e transparência. Destaca-se também a importância das estratégias de interseccionalidade, que analisam a combinação de variáveis para revelar novas dimensões sociais dos indivíduos.
 3. **Coleta de Dados sobre Experiências de Exclusão e Discriminação:** Experiências de discriminação ou barreiras de acesso enfrentadas por diferentes grupos podem ser incorporadas à avaliação para aprimorar o indicador de maturidade no tratamento desses sistemas operacionais.
 
-Com isso, emergem algumas considerações:
+Com isso, emergem algumas considerações:<br><br> 
+
 * Informação por terceiros: Coleta realizada por profissionais de saúde ou declarantes do óbito, sujeita a vieses e inconsistências.
 * Categorias: Uso de classificações que possibilitem uma identificação adequada, incluindo opções para aqueles que não se enquadram nas categorias predefinidas.
 * Ferramenta de coleta: Avaliação do potencial de inclusão dos métodos e ferramentas de coleta utilizados.
@@ -61,10 +73,14 @@ Com isso, emergem algumas considerações:
 | **e-SUS Notifica** | Dados gerais (número de notificação, UF e município de notificação, data de notificação); Identificação da pessoa notificada (CPF, passaporte, dados profissionais, CNS, nome, data de nascimento, sexo, raça/cor, etnia, se pertencente à comunidade ou povo tradicional); Dados de residência; Estratégia e local de testagem; Dados clínicos, laboratoriais e epidemiológicos; Encerramento da investigação. | **Sexo**, **Raça/cor**, **Etnia** | \- **Informação por Terceiros:** Potencial viés.- **Categorias:** Grupos étnico-raciais adequados.- **Qualidade:** Verificação e correção de erros.- **Interseccionalidade:** Análise de interações entre múltiplos fatores.- **Transparência:** Clareza nas fontes de informação. |
 | **SIM (Sistema de Informações sobre Mortalidade)** | Identificação do falecido (tipo de óbito, data do óbito, cartão SUS, naturalidade, nome, filiação, data de nascimento, idade, sexo, raça/cor, situação conjugal, escolaridade, ocupação habitual); Dados sobre residência do falecido; Local de ocorrência do óbito; Dados sobre óbitos fetais e de menores de 1 ano; Condições e causas do óbito; Identificação do médico atestante; Causas externas; Dados do cartório. | **Sexo**, **Raça/cor** | • **Informação por Terceiros:** Coleta da informação sobre raça/cor por terceiros pode gerar viés. • **Categorias:** Uso de categorias que permitam identificação adequada dos grupos étnico-raciais. • **Qualidade:** Análise de qualidade dos dados para corrigir erros. • **Interseccionalidade:** Análise da interação entre raça/cor, sexo, idade e causa da morte. • **Transparência:** Transparência nas fontes de informação. |
 
-## **A informação social e a importância de conhecer os marcos e contextos sociais e as bases regulatórias de coleta.**
+### **A informação social e a importância de conhecer os marcos e contextos sociais e as bases regulatórias de coleta.**
 
-A avaliação da maturidade da coleta de dados de diversidade deve considerar não apenas os aspectos técnicos e operacionais, mas também a compreensão e o monitoramento do complexo cenário social e regulatório em que essa coleta está inserida.
-O tratamento de dados sobre diversidade é uma pauta tanto nacional quanto internacional, e três elementos se destacam nesse contexto. Parto da hipótese de que a política de dados é moldada pela articulação da administração de dados no país e pela estruturação das políticas multiculturais. Os dilemas envolvem o equilíbrio entre interesses, direitos e salvaguardas em relação a:
+<h6>
+  
+A avaliação da maturidade da coleta de dados de diversidade deve considerar não apenas os aspectos técnicos e operacionais, mas também a compreensão e o monitoramento do complexo cenário social e regulatório em que essa coleta está inserida.<br><br>
+
+O tratamento de dados sobre diversidade é uma pauta tanto nacional quanto internacional, e três elementos se destacam nesse contexto. Parto da hipótese de que a política de dados é moldada pela articulação da administração de dados no país e pela estruturação das políticas multiculturais. Os dilemas envolvem o equilíbrio entre interesses, direitos e salvaguardas em relação a:<br><br>
+
 * **Interesse Público:** O interesse público, em consonância com a base legal, nacional ou internacional, deve ser proporcional à finalidade, respeitar o direito à proteção de dados e salvaguardar os direitos fundamentais dos titulares dos dados.  
 * **Consentimento:** Mediar a relação de coleta com o consentimento e a autonomia.  
 * **Fins de Arquivamento, Pesquisa ou Estatística:** Definir critérios para processamento para fins de arquivamento no interesse público, pesquisa científica ou histórica ou fins estatísticos.   
@@ -91,7 +107,7 @@ De maneira geral, o quadro abaixo ilustra esse cenário.
 | **Reino Unido** | Impõe o dever de coleta de dados de igualdade, incluindo raça e origem étnica, a órgãos públicos. | Utiliza categorias amplas que combinam indicadores nacionais, étnicos e geográficos no censo. | A categorização da origem racial e étnica é um debate em constante evolução, buscando refletir a diversidade da população. |
 
 -------------
-Fonte: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/dados-para-vigilancia-perfis-das-bases-de-dados-produzidas-pela-vigilancia-em-saude-no-brasil/view
+Fonte: https://w ww.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/dados-para-vigilancia-perfis-das-bases-de-dados-produzidas-pela-vigilancia-em-saude-no-brasil/view
 
 Metadados intermediários: https://docs.google.com/spreadsheets/d/1smGDNLgs7kF5t5yTSIxJIqM1R2ry5p6FRmq9lR3unQQ/edit?gid=0#gid=0
 
