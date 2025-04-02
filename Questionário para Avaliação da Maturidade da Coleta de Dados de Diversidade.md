@@ -1,9 +1,10 @@
-# Questionário para Avaliação da Maturidade da Coleta de Dados de Diversidade, Versão 0\
+## Questionário para Avaliação da Maturidade da Coleta de Dados de Diversidade, Versão 0
 
 <h5>Autoria: Maíra Lima (lima.maira.souza@gmail.com)</h5>
                                                       
 ----------------------
-
+<h6> 
+  
 **1\. Gestão de Dados:**
 
 * Os processos de coleta, armazenamento e atualização de dados incluem explicitamente considerações sobre a coleta de dados da diversidade (sexo, raça/cor, etnia, pertencimento a comunidades ou povos tradicionais, etc.)?  
