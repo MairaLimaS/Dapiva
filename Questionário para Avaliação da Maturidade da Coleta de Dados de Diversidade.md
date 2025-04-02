@@ -1,5 +1,6 @@
 # Questionário para Avaliação da Maturidade da Coleta de Dados de Diversidade, Versão 0\
-> Autoria: Maíra LimaS (lima.maira.souza@gmail.com)
+
+<h4>Autoria: Maíra Lima (lima.maira.souza@gmail.com)</h4>
 
 ----------------------
 
