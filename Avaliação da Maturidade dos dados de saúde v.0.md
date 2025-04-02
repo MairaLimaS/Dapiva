@@ -1,5 +1,5 @@
 # **Relatório de Maturidade de Gestão de Dados de Saúde, Versão 0\.**  
-Autoria: Maíra LimaS (https://www.linkedin.com/in/mairalimas/)
+Autoria: Maíra LimaS (lima.maira.souza@gmail.com)
 
 # **O estudo de Caso\.**  
 Em 2023, o Departamento de Análise Epidemiológica e Vigilância de Doenças Não Transmissíveis (Daent), ligado à SVSA, publicou o perfil das bases de dados produzidas pela vigilância em saúde no Brasil. O documento descreve os sistemas de informação em saúde ligados a diferentes aspectos da linha da vida dos cidadãos brasileiros e que estão sob gestão do departamento. São apresentados, para cada sistema, informações sobre a coleta e processamento, avaliação da qualidade, acesso e limitações e desafios. Esse levantamento também apresenta as principais variáveis de cada sistema. 
