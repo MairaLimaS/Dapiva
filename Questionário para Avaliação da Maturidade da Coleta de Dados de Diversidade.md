@@ -58,7 +58,6 @@
 * A coleta de dados leva em consideração o contexto histórico e cultural que pode influenciar a identificação e a categorização dos grupos de diversidade?  
 * São analisadas as implicações éticas e sociais da coleta e do uso de dados de diversidade?  
 * O sistema busca adaptar suas práticas de coleta para superar desafios como a potencial influência do passado colonial, regionalismos e categorizações rígidas de grupos minoritários?  
-* Há uma avaliação regular de como diferentes modelos multiculturais (como os mencionados na fonte para países europeus) podem influenciar a abordagem da coleta de dados de diversidade no contexto brasileiro?
 
 **Considerações Adicionais sobre a Coleta de Dados da Diversidade:**
 
