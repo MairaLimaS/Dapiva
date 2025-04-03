@@ -31,7 +31,7 @@ Com base nos critérios acima e no perfil das bases de saúde apresentado, foram
 | 5\. Acesso aos Dados | 4 | 4 | 4 | 4 | 4 | 4 |
 | 6\. Literacia de Dados | 3 | 3 | 3 | 3 | 3 | 3 |
 
-- **Gestão de Dados**: Sistemas como o SINASC e o VIGITEL têm práticas elaboradas, com coleta bem definida. No entanto, o SINAN e o SIM têm desafios na consistência e qualidade dos dados. Por exemplo, o Sub-registro de anomalias congênitas no SINAN e o SIM, com os códigos "garbage" e baixa cobertura em alguns locais.  
+- **Gestão de Dados**: Sistemas como o SINASC e o VIGITEL têm práticas elaboradas, com coleta bem definida. No entanto, o SINAN e o SIM têm desafios na consistência e qualidade dos dados. Por exemplo, o sub-registro de anomalias congênitas no SINAN e o SIM, com os códigos "garbage" e baixa cobertura em alguns locais.  
 - **Qualidade de Dados**: A maioria das bases de dados apresenta práticas de qualidade, mas o RESP-Microcefalia e o SINAN têm pontos de melhoria relacionados à cobertura, notificação e monitoramento.  
 - **Padrões de Dados**: As bases como o SINASC e o VIGITEL têm sistemas bem padronizados com uso de classificações como a CID, enquanto o RESP-Microcefalia ainda carece de padronização em algumas áreas.  
 - **Infraestrutura de Dados**: A infraestrutura de algumas bases (como SINASC e SIM) ainda depende de versões off-line, enquanto outras, como o VIGITEL, têm melhor centralização de dados e uma plataforma própria capaz de escalar. O RESP, foi sinalizada dificuldade de exportação e tratamento dos dados, e o SINAN têm arquiteturas diferentes entre as versões e módulos.  
