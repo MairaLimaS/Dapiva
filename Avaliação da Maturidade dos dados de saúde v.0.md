@@ -16,11 +16,9 @@ A partir das informações trazidas na publicação em questão, esse documento 
 3. **Padrões de Dados**: Mede a adoção de normativas e classificações padronizadas para garantir interoperabilidade e comparabilidade entre sistemas.   
 4. **Infraestrutura de Dados**: Avalia os recursos tecnológicos utilizados para armazenar, processar e disponibilizar os dados.   
 5. **Acesso aos Dados**: Analisa a disponibilidade e transparência das informações, incluindo a existência de microdados anonimizados acessíveis ao público.   
-6. **Literacia de Dados**: Refere-se à capacidade dos usuários de interpretar e utilizar os dados de forma eficaz. Diz respeito tanto a capacitação no uso de ferramentas como EpiInfo e TabWin, quanto a disponibilização de documentos de dados e do domínio e modelo de negócio do sistema de informação. 
-<br><br>
+6. **Literacia de Dados**: Refere-se à capacidade dos usuários de interpretar e utilizar os dados de forma eficaz. Diz respeito tanto a capacitação no uso de ferramentas como EpiInfo e TabWin, quanto a disponibilização de documentos de dados e do domínio e modelo de negócio do sistema de informação.<br>
 
-Assim, cada sistema foi avaliado individualmente em cada um dos critérios mencionados, utilizando uma escala de maturidade de 1 a 5, baseada na existência de práticas de gestão estabelecidas. Por exemplo, práticas criadas para solucionar problemas imediatos são classificadas na escala 1, categoria inicial, e, à medida que se expandem e se tornam mais integradas, evoluem até a escala 5.
-<br><br> 
+Assim, cada sistema foi avaliado individualmente em cada um dos critérios mencionados, utilizando uma escala de maturidade de 1 a 5, baseada na existência de práticas de gestão estabelecidas. Por exemplo, práticas criadas para solucionar problemas imediatos são classificadas na escala 1, categoria inicial, e, à medida que se expandem e se tornam mais integradas, evoluem até a escala 5.<br> 
 
 Com base nos critérios acima e no perfil das bases de saúde apresentado, foram elaborados cinco modelos de maturidade para os seguintes sistemas: Sistema de Informações sobre Nascidos Vivos (SINASC), Sistema de Informação de Agravos de Notificação (SINAN), Vigilância de Fatores de Risco e Proteção para Doenças Crônicas Não Transmissíveis por Inquérito Telefônico (VIGITEL), e-SUS Notifica e Sistema de Informações sobre Mortalidade (SIM). A atribuição de pontos foi realizada com base na avaliação das informações fornecidas sobre cada sistema em relação aos componentes propostos pelo Modelo de Maturidade em Gestão de Dados (MMGD). Espera-se que este documento sirva como referência para análises futuras de outros conjuntos de dados administrativos governamentais. <br><br> 
 
@@ -45,19 +43,17 @@ Com base nos critérios acima e no perfil das bases de saúde apresentado, foram
 <h6>
   
 No que diz respeito ao documento analisado, a coleta de dados da diversidade pode ser percebida da seguinte forma:
-<br><br> 
 
 * Os sistemas **SINASC**, **SINAN**, **VIGITEL**, **e-SUS Notifica** e **SIM** coletam dados sobre sexo e raça/cor.  
 * O sistema **e-SUS Notifica** coleta informações sobre etnia e sobre pertencimento a comunidades ou povos tradicionais.
 
-<br><br> 
-Em termos de maturidade, nota-se que a coleta de sobre a diversidade é **mínima**, focando em sexo e raça/cor, tendo a maior parte dos sistemas relatado dificuldades para escalar. Estudos têm apontado que a avaliação da maturidade dessas bases para o tratamento de informações de diversidade devem considerar as diretrizes de coleta e análise, considerando o potencial de: <br><br> 
+Em termos de maturidade, nota-se que a coleta de sobre a diversidade é **mínima**, focando em sexo e raça/cor, tendo a maior parte dos sistemas relatado dificuldades para escalar. Estudos têm apontado que a avaliação da maturidade dessas bases para o tratamento de informações de diversidade devem considerar as diretrizes de coleta e análise, considerando o potencial de: <br>
 
 1. **Autoidentificação:** A autoidentificação é um princípio fundamental na coleta de dados sobre origem racial ou étnica. Os indivíduos devem ter o direito de se definir e decidir se desejam ou não divulgar essas informações. A imposição de categorias ou a identificação por terceiros pode resultar em imprecisões e distorções.
 2. **Uso de Informações Proxy:** Em alguns casos, quando a autoidentificação não é possível, o uso de informações proxy, como nacionalidade, país de nascimento ou idioma, pode ser uma alternativa para estudos sobre origem étnica e racial. Em outros cenários, a combinação de variáveis como raça/cor, identificação indígena ou quilombola e endereço pode ajudar a compreender a diversidade. No entanto, o uso de proxies apresenta desafios e deve ser conduzido com cautela e transparência. Destaca-se também a importância das estratégias de interseccionalidade, que analisam a combinação de variáveis para revelar novas dimensões sociais dos indivíduos.
 3. **Coleta de Dados sobre Experiências de Exclusão e Discriminação:** Experiências de discriminação ou barreiras de acesso enfrentadas por diferentes grupos podem ser incorporadas à avaliação para aprimorar o indicador de maturidade no tratamento desses sistemas operacionais.
 
-Com isso, emergem algumas considerações:<br><br> 
+Com isso, surgem algumas considerações:<br>
 
 * Informação por terceiros: Coleta realizada por profissionais de saúde ou declarantes do óbito, sujeita a vieses e inconsistências.
 * Categorias: Uso de classificações que possibilitem uma identificação adequada, incluindo opções para aqueles que não se enquadram nas categorias predefinidas.
@@ -77,9 +73,9 @@ Com isso, emergem algumas considerações:<br><br>
 
 <h6>
   
-A avaliação da maturidade da coleta de dados de diversidade deve considerar não apenas os aspectos técnicos e operacionais, mas também a compreensão e o monitoramento do complexo cenário social e regulatório em que essa coleta está inserida.<br><br>
+A avaliação da maturidade da coleta de dados de diversidade deve considerar não apenas os aspectos técnicos e operacionais, mas também a compreensão e o monitoramento do complexo cenário social e regulatório em que essa coleta está inserida.<br>
 
-O tratamento de dados sobre diversidade é uma pauta tanto nacional quanto internacional, e três elementos se destacam nesse contexto. Parto da hipótese de que a política de dados é moldada pela articulação da administração de dados no país e pela estruturação das políticas multiculturais. Os dilemas envolvem o equilíbrio entre interesses, direitos e salvaguardas em relação a:<br><br>
+O tratamento de dados sobre diversidade é uma pauta tanto nacional quanto internacional, e três elementos se destacam nesse contexto. Parto da hipótese de que a política de dados é moldada pela articulação da administração de dados no país e pela estruturação das políticas multiculturais. Os dilemas envolvem o equilíbrio entre interesses, direitos e salvaguardas em relação a:<br>
 
 * **Interesse Público:** O interesse público, em consonância com a base legal, nacional ou internacional, deve ser proporcional à finalidade, respeitar o direito à proteção de dados e salvaguardar os direitos fundamentais dos titulares dos dados.  
 * **Consentimento:** Mediar a relação de coleta com o consentimento e a autonomia.  
@@ -90,7 +86,7 @@ O tratamento de dados sobre diversidade é uma pauta tanto nacional quanto inter
 
 Segue um exemplo prático.
 
-No caso dos dados sobre raça, cor, etnia e nacionalidade, cada país adota uma abordagem específica para a coleta dessas informações, de acordo com seu contexto. Os diferentes modelos multiculturais europeus — como a exclusão diferencial na Alemanha, a assimilação na França e o multiculturalismo na Grã-Bretanha — buscaram equilibrar a preservação da identidade cultural com a participação social. Observa-se que a coleta de dados sobre diversidade enfrenta desafios relacionados à influência do passado colonial e ao regionalismo. Há restrições à coleta de dados sobre origem racial e étnica, com exceções para fins específicos, como combate à discriminação e um ebate sobre o uso de proxies para coleta de dados étnicos, com preocupações sobre privacidade e discriminação indireta. Para avançar, é necessário superar obstáculos como a crise do Estado de bem-estar social, a xenofobia e as categorizações rígidas de grupos minoritários.
+No caso dos dados sobre raça, cor, etnia e nacionalidade, cada país adota uma abordagem específica para a coleta dessas informações, de acordo com seu contexto. Os diferentes modelos multiculturais europeus como a exclusão diferencial na Alemanha, a assimilação na França e o multiculturalismo na Grã-Bretanha, buscaram equilibrar a preservação da identidade cultural com a participação social. Observa-se que a coleta de dados sobre diversidade enfrenta desafios relacionados à influência do passado colonial e ao regionalismo. Há restrições à coleta de dados sobre origem racial e étnica, com exceções para fins específicos, como combate à discriminação e um ebate sobre o uso de proxies para coleta de dados étnicos, com preocupações sobre privacidade e discriminação indireta. Para avançar, é necessário superar obstáculos como a crise do Estado de bem-estar social, a xenofobia e as categorizações rígidas de grupos minoritários.
 
 De maneira geral, o quadro abaixo ilustra esse cenário.
 | País | Contexto Legal | Práticas de Coleta | Desafios e Considerações |
