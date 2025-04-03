@@ -23,9 +23,10 @@
 
 **3\. Padrões de Dados:**
 
-* São utilizadas normativas e classificações padronizadas (como CID para raça/cor ou etnia, se aplicável) para garantir a interoperabilidade e comparabilidade dos dados de diversidade entre diferentes sistemas?  
+* Existem e são utilizadas normativas e classificações padronizadas?
+* É possível a interoperabilidade e comparabilidade dos dados de diversidade entre diferentes sistemas?  
 * As categorias utilizadas para a coleta de dados de diversidade permitem a identificação adequada dos diferentes grupos, incluindo opções para aqueles que não se identificam nas categorias predefinidas?  
-* Há um esforço para harmonizar os padrões de coleta de dados de diversidade com as recomendações nacionais e internacionais?  
+* É possível harmonizar os padrões de coleta de dados de diversidade com as recomendações nacionais e internacionais?  
 * A adoção de padrões para dados de diversidade está bem estabelecida e integrada (escala 1 a 5)?
 
 **4\. Infraestrutura de Dados:**
