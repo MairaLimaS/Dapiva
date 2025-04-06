@@ -29,14 +29,14 @@ Com base nos critérios acima e no perfil das bases de saúde apresentado, foram
 | 3\. Padrões de Dados | 4 | 4 | 3 | 4 | 4 | 4 |
 | 4\. Infraestrutura de Dados | 3 | 2 | 3 | 4 | 3 | 3 |
 | 5\. Acesso aos Dados | 4 | 4 | 4 | 4 | 4 | 4 |
-| 6\. Literacia de Dados | 3 | 3 | 3 | 3 | 3 | 3 |
+| 6\. Literacia de Dados | 3 | 3 | 3 | 2.5 | 3 | 3 |
 
 - **Gestão de Dados**: Sistemas como o SINASC e o VIGITEL têm práticas elaboradas, com coleta bem definida. No entanto, o SINAN e o SIM têm desafios na consistência e qualidade dos dados. Por exemplo, o sub-registro de anomalias congênitas no SINAN e o SIM enfrenta os códigos "garbage" e a baixa cobertura em alguns locais.  
 - **Qualidade de Dados**: A maioria das bases de dados apresenta práticas de qualidade, mas o RESP-Microcefalia e o SINAN têm pontos de melhoria relacionados à cobertura, notificação e monitoramento.  
 - **Padrões de Dados**: As bases como o SINASC e o VIGITEL têm sistemas bem padronizados com uso de classificações como a CID, enquanto o RESP-Microcefalia ainda carece de padronização em algumas áreas.  
 - **Infraestrutura de Dados**: A infraestrutura de algumas bases (como SINASC e SIM) ainda depende de versões off-line, enquanto outras, como o VIGITEL, têm melhor centralização de dados e uma plataforma própria capaz de escalar. O RESP, foi sinalizada dificuldade de exportação e tratamento dos dados, e o SINAN têm arquiteturas diferentes entre as versões e módulos.  
 - **Acesso aos Dados**: Todas as bases oferecem acesso aos dados, com microdados anonimizados disponíveis em plataformas públicas como TabNet. Nota-se que os dados são apresentados em formatos como tabelas, painéis e relatórios, o que facilita a consulta. Há também o uso de plataformas para monitoramento de indicadores.  
-- **Literacia de Dados**: Há uma capacidade básica de consulta e agregação, mas a documentação ainda é limitada. Ela não está disponível de forma ampla e online.
+- **Literacia de Dados**: Há uma capacidade básica de consulta e agregação, mas a documentação ainda é limitada. Ela não está disponível de forma ampla e online. No que diz respeito a aptidão para uso, dados como o Vigitel requerem habilidades em analisar dados ponderados. 
 
 ### **A capacidade de coleta de dados da diversidade.**
 
