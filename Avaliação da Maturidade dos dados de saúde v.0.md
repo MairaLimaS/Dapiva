@@ -36,7 +36,7 @@ Com base nos critérios acima e no perfil das bases de saúde apresentado, foram
 - **Padrões de Dados**: As bases como o SINASC e o VIGITEL têm sistemas bem padronizados com uso de classificações como a CID, enquanto o RESP-Microcefalia ainda carece de padronização em algumas áreas.  
 - **Infraestrutura de Dados**: A infraestrutura de algumas bases (como SINASC e SIM) ainda depende de versões off-line, enquanto outras, como o VIGITEL, têm melhor centralização de dados e uma plataforma própria capaz de escalar. O RESP, foi sinalizada dificuldade de exportação e tratamento dos dados, e o SINAN têm arquiteturas diferentes entre as versões e módulos.  
 - **Acesso aos Dados**: Todas as bases oferecem acesso aos dados, com microdados anonimizados disponíveis em plataformas públicas como TabNet. Nota-se que os dados são apresentados em formatos como tabelas, painéis e relatórios, o que facilita a consulta. Há também o uso de plataformas para monitoramento de indicadores.  
-- **Literacia de Dados**: Há uma capacidade básica de consulta e agregação, mas a documentação ainda é limitada. Ela não está disponível de forma ampla e online. No que diz respeito a aptidão para uso, dados como o Vigitel requerem habilidades em analisar dados ponderados. 
+- **Literacia de Dados**: Há uma capacidade básica de consulta e agregação, mas a documentação ainda é limitada e não está amplamente disponível online. No que diz respeito à aptidão para uso, dados como os do Vigitel exigem habilidades na análise de dados ponderados. 
 
 ### **A capacidade de coleta de dados da diversidade.**
 
