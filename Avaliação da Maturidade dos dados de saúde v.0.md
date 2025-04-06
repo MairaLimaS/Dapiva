@@ -53,7 +53,7 @@ Em termos de maturidade, nota-se que a coleta de sobre a diversidade é **mínim
 2. **Uso de Informações Proxy:** Em alguns casos, quando a autoidentificação não é possível, o uso de informações proxy, como nacionalidade, país de nascimento ou idioma, pode ser uma alternativa para estudos sobre origem étnica e racial. Em outros cenários, a combinação de variáveis como raça/cor, identificação indígena ou quilombola e endereço pode ajudar a compreender a diversidade. No entanto, o uso de proxies apresenta desafios e deve ser conduzido com cautela e transparência. Destaca-se também a importância das estratégias de interseccionalidade, que analisam a combinação de variáveis para revelar novas dimensões sociais dos indivíduos.
 3. **Coleta de Dados sobre Experiências de Exclusão e Discriminação:** Experiências de discriminação ou barreiras de acesso enfrentadas por diferentes grupos podem ser incorporadas à avaliação para aprimorar o indicador de maturidade no tratamento desses sistemas operacionais.
 
-Com isso, surgem algumas considerações:<br>
+Com isso, surgem algumas considerações quanto a **Inclusion by design**:<br>
 
 * Informação por terceiros: Coleta realizada por profissionais de saúde ou declarantes do óbito, sujeita a vieses e inconsistências.
 * Categorias: Uso de classificações que possibilitem uma identificação adequada, incluindo opções para aqueles que não se enquadram nas categorias predefinidas.
