@@ -10,7 +10,7 @@ library(echarts4r)
 library(dplyr)
 
 
-# Dados de exemplo (pode adaptar com seus dados reais)
+# Critétios e Sistemas Avaliados
 componentes <- c("Gestão", "Qualidade", "Padrões", "Infraestrutura", "Acesso", "Literacia")
 categorias <- c("SINASC", "RESP-Microcefalia", "SINAN", "VIGITEL", "e-SUS", "SIM")
 
