@@ -1,4 +1,6 @@
 ## **Relatório de Maturidade de Gestão de Dados de Saúde, Versão 0\.**  
+<h3> MaTz-Data - maturity radar applied to administrative data.</h3>
+  
 Autoria: Maíra LimaS (lima.maira.souza@gmail.com)
 
 ----------------------------------------------------------
@@ -103,8 +105,10 @@ De maneira geral, o quadro abaixo ilustra esse cenário.
 | **Reino Unido** | Impõe o dever de coleta de dados de igualdade, incluindo raça e origem étnica, a órgãos públicos. | Utiliza categorias amplas que combinam indicadores nacionais, étnicos e geográficos no censo. | A categorização da origem racial e étnica é um debate em constante evolução, buscando refletir a diversidade da população. |
 
 -------------
-Fonte: https://w ww.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/dados-para-vigilancia-perfis-das-bases-de-dados-produzidas-pela-vigilancia-em-saude-no-brasil/view
-
+Fonte: 
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de Análise Epidemiológica e Vigilância de Doenças não Transmissíveis. Dados para Vigilância: perfis das bases de dados produzidas pela Vigilância em Saúde no Brasil. Brasília: Ministério da Saúde, 2023. 127 p.: il. Disponível em: https://w ww.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/vigilancia/dados-para-vigilancia-perfis-das-bases-de-dados-produzidas-pela-vigilancia-em-saude-no-brasil/view.
+SANSONE, L.. Multiculturalismo, Estado e modernidade: as nuanças em alguns países europeus e o debate no Brasil. Dados, v. 46, n. 3, p. 535–556, 2003. 
+SIMON, Patrick. Collecting ethnic statistics in Europe: a review August 2012. Ethnic and Racial Studies, v. 35, n. 8, p. 1366–1391, 2012. DOI: 10.1080/01419870.2011.607507.
 Metadados intermediários: https://docs.google.com/spreadsheets/d/1smGDNLgs7kF5t5yTSIxJIqM1R2ry5p6FRmq9lR3unQQ/edit?gid=0#gid=0
 
 
