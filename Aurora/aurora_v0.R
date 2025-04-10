@@ -10,7 +10,6 @@ library(echarts4r)
 library(dplyr)
 
 
-# Critérios e sistemas avaliados
 componentes <- c("Gestão", "Qualidade", "Padrões", "Infraestrutura", "Acesso", "Literacia")
 categorias <- c("SINASC", "RESP-Microcefalia", "SINAN", "VIGITEL", "e-SUS", "SIM")
 
@@ -44,9 +43,16 @@ ui <- dashboardPage(
     tabItems(
       # Abas
       tabItem(tabName = "overview",
-              h2("Bem-vindo ao Dapiva_primers"),
+              h2("Bem-vindo a versão beta do Dapiva"),
+              h3("Data and Policy for Inclusion in Administrative Data"),
+              h4("Ciência, tecnologia, direito digital e humanidades."),
               p("Este dashboard apresenta o radar de maturidade dos dados administrativos com foco em inclusão."),
-              p("Ele deriva do artigo As bases legais no sistema de coleta de informação sobre a diversidade na Saúde e na Saúde Digital")
+              p("Analisa a capacidade para incorporar o design inclusivo - inclusion by design."),
+              p("Produções associadas: "),
+              p("a) As bases legais no sistema de coleta de informação sobre a diversidade na Saúde e na Saúde Digital: https://itsrio.org/wp-content/uploads/2017/01/Livro-Inteligencia-Artificial-e-Sociedade-Conectada.pdf,"),
+              p("b) Princípios de dados indígenas como uma estrutura protetiva de direitos coletivos: o caso dos dados dos povos indígenas do Canadá, Austrália e Nova Zelândia: no prelo,"),
+              p("c) https://github.com/MairaLimaS/Dapiva_primers."),
+              
       ),
       
       tabItem(tabName = "radar",
@@ -106,9 +112,10 @@ ui <- dashboardPage(
      
      tabItem(tabName = "about",
               h2("Sobre o Projeto"),
-              p("Aurora é o princípio orientador do Dapiva – Data and Policy for Inclusion in Administrative Data."),
-              p("MaTz-Data é o radar de maturidade aplicado aos dados administrativos."),
-              p("Idealização: Maíra Lima (lima.maira.souza@gmail.com)")
+              p("Dapiva – Data and Policy for Inclusion in Administrative Data."),
+              p("MaTz-Data é o radar de maturidade de inclusão aplicado aos dados administrativos."),
+              p("Autoria: Maíra Lima, Data Stewardship/Curadora de dados."),
+              p("https://mairalimas.github.io/")
       )
     )
   )
